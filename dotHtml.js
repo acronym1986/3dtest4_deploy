@@ -1,7 +1,7 @@
 export function b1() {
     const divhtml = `
         <p class="label_text">Enigma</p>
-        <input type="checkbox" class="d_input1" id="input1" name="inputs"/>
+        <input type="checkbox" class="d_input1" id="input1" name="inputss"/>
         <label for="input1">
             <div id="b1" class="h_button"></div>
         </label>
@@ -13,7 +13,7 @@ export function b1() {
  export function b2() {
     const divhtml = `
         <p class="label_text">Fabriq</p>
-        <input type="checkbox" class="d_input2" id="input2" name="inputs"/>
+        <input type="checkbox" class="d_input2" id="input2" name="inputss"/>
         <label for="input2">
             <div id="b2" class="h_button"></div>
         </label>
@@ -25,7 +25,7 @@ export function b1() {
  export function b3() {
     const divhtml = `
         <p class="label_text">Algoreus</p>
-        <input type="checkbox" class="d_input3" id="input3" name="inputs"/>
+        <input type="checkbox" class="d_input3" id="input3" name="inputss"/>
         <label for="input3">
             <div id="b3" class="h_button"></div>
         </label>
