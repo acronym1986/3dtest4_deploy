@@ -70,7 +70,7 @@ divDot1.classList.add("dot1");
 divDot1.insertAdjacentHTML('beforeend', b1());
 const divDotWrap1 = new CSS2DObject(divDot1);
 scene.add(divDotWrap1);
-divDotWrap1.position.set(6, 0, 0) 
+divDotWrap1.position.set(6, 0, 0)
 
 const divDot2 = document.createElement('div');
 divDot2.classList.add("dot2");
