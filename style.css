@@ -23,6 +23,19 @@
   margin-left: -10px;
   display: block;
 }
+.eni-sup{
+    font-size: 9px;
+    position: relative;
+    top: -8px;
+}
+   
+.fab-sup{
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    position: relative;
+    top: -8px;
+}
 
 .label_text.hide_text{
     display: none;
