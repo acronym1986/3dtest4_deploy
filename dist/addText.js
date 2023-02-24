@@ -42,3 +42,18 @@ export function algoreustext() {
     return obj_paratext;
 
 }
+
+export function turiumtext() {
+  const paratext = `
+  Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+  Eligendi cum facilis natus dolores corporis voluptate nam dignissimos dolor, 
+  asperiores esse, sint distinctio blanditiis quasi fugit nesciunt est rem facere vero?
+  `
+  var obj_paratext = {
+      name:  'Turium',
+      header: 'About Turium',
+      text: paratext,
+    };
+    return obj_paratext;
+
+}
