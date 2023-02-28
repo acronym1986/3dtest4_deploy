@@ -53,9 +53,21 @@ export function algoreustext() {
 
 export function turiumtext() {
   const paratext = `
-  Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-  Eligendi cum facilis natus dolores corporis voluptate nam dignissimos dolor, 
-  asperiores esse, sint distinctio blanditiis quasi fugit nesciunt est rem facere vero?
+  For years, we've consulted alongside our customers to build our Artificial Intelligence platform backwards, 
+  starting from solving the mission critical enterprise problems. 
+  Our goal is to provide the world's most seamless experience for working with real-time data, 
+  one that enables people to gain rich insights into their dynamic environment. 
+  To achieve this, we create intelligent platform products that unlock the value of big data by layering industry-preferred applications on top of a fully integrated human augmented and machine-assisted analysis 
+  Responsible Ai To build trust, 
+  it's critical that AI systems should operate reliably, safely, and consistently. 
+  It should be able to operate as they were originally designed, respond safely to unanticipated conditions, 
+  and resist harmful manipulation, especially in the hands of third-party organisations. 
+  When AI systems help inform decisions that have tremendous impacts on people's lives, 
+  it's critical that people understand how those decisions were made. The stakeholders can then identify potential performance issues, 
+  fairness issues, exclusionary practices, or unintended outcomes. 
+  We are committed to delivering Responsible AI solutions through reproducible and automated workflows by keeping humans in the loop to assess fairness, explainability, error analysis, 
+  and performance. With our products, make real-life interventions with causal analysis in the responsible AI dashboard and generate a scorecard at deployment time. 
+  Contextualise responsible AI metrics for both technical and non-technical audiences to involve stakeholders and streamline compliance review.
   `
   var obj_paratext = {
       name:  'Turium',
