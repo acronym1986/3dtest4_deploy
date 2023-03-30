@@ -68,11 +68,16 @@ export function b1() {
     return divhtml;
  }
 
-//  <div id="content1" class="content">
-//  <div style="text-align: right;">
-//  <label for="input1" class="cross">X</label>
-// </div>
-// <h1>Content one</h1>
-// <p class="bodyCopy">Additional content goes here.</p>
-// <a href="#" class="cta">Find out more</a>
-// </div>
+ export function b5() {
+    const divhtml = `
+        <p class="label_text">
+        Community
+        </p>
+        <input type="checkbox" class="d_input5" id="input5" name="inputss"/>
+        <label for="input5">
+            <div id="b5" class="h_button"></div>
+        </label>
+
+        `
+    return divhtml;
+ }
