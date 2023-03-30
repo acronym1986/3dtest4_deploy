@@ -70,7 +70,7 @@ export function b1() {
 
  export function b5() {
     const divhtml = `
-        <p class="label_text1">JOIN OUR</p>
+        <p class="label_text1">JOIN OUR REVOLUTION</p>
         <p class="label_text2">Community</p>
         <input type="checkbox" class="d_input5" id="input5" name="inputss"/>
         <label for="input5">

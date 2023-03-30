@@ -70,3 +70,23 @@ export function turiumtext() {
     return obj_paratext;
 
 }
+
+export function communitytext() {
+  const paratext = `
+  For years, we've consulted alongside our customers to build our Ai platform backwards, 
+  starting from solving mission-critical enterprise problems. 
+  Turium technologies are the virtual twins of distributed neurons in the brain, linking historically siloed, 
+  disconnected systems to power smarter, more informed operations. 
+  Providing the world's most seamless experience for working with real-time data, 
+  one that enables people to gain rich insights into their dynamic environment. 
+  We create intelligent platform products that unlock the value of big data by layering 
+  industry-preferred applications on top of a fully integrated human-augmented and machine-assisted analysis.
+  `
+  var obj_paratext = {
+      name:  'Community',
+      header: 'Join the Revolution',
+      text: paratext,
+    };
+    return obj_paratext;
+
+}
