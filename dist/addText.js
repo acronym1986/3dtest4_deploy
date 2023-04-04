@@ -1,11 +1,10 @@
 export function enigmatext() {
   const paratext = `
-  Move beyond RPA and experience the power of APA with ENIGMA2.0, 
+  Move beyond RPA (Robotic Process Automation) and experience the power of APA (Ai Process Automation) with ENIGMA2.0, 
   a software solution that adapts, scales, and evolves with you. 
-  Robotic Process Automation (RPA) is the use of software “robots" who perform the same way every time and don't learn from one repetition to another. 
-  AI Process Automation in Enigma first learns your business processes (acquiring information), 
-  improves them (using context and rules) and finally, 
-  performs intelligent internal self-correction (learning from successes and failures) to enable immediate action
+  RPA is the use of software “robots" who perform the same way every time and don't learn from one repetition to another. 
+  APA in Enigma first learns your business processes (acquiring information), improves them (using context and rules) and finally, 
+  performs intelligent internal self-correction (learning from successes and failures) to enable immediate action.
   `
   var obj_paratext = {
       name:  'Enigma',
