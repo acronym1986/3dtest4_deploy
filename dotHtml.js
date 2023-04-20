@@ -1,13 +1,15 @@
 export function b1() {
     const divhtml = `
        <div class="label-header">
-            <p class="label_text1">AI AUTOMATION</p>
-            <p class="label_text2">
-            Enigma
-                <sup class="eni-sup">
-                2.0
-                </sup>
-            </p>
+            //<p class="label_text1">AI AUTOMATION</p>
+            // <p class="label_text2">
+            // Enigma
+            //     <sup class="eni-sup">
+            //     2.0
+            //     </sup>
+            // </p>
+            <p class="label_text1">ML SPAWNER</p>
+            <p class="label_text2">Research</p>
         </div>
         <input type="checkbox" class="d_input1" id="input1" name="inputss"/>
         <label for="input1">
@@ -21,11 +23,18 @@ export function b1() {
  export function b2() {
     const divhtml = `
         <div class="label-header">
-            <p class="label_text1">DATA INTEGRATION</p>
+            //<p class="label_text1">DATA INTEGRATION</p>
+            // <p class="label_text2">
+            // Fabriq
+            //     <sup class="fab-sup">
+            //     n
+            //     </sup>
+            // </p>
+            <p class="label_text1">AI AUTOMATION</p>
             <p class="label_text2">
-            Fabriq
-                <sup class="fab-sup">
-                n
+            Enigma
+                <sup class="eni-sup">
+                2.0
                 </sup>
             </p>
         </div>
