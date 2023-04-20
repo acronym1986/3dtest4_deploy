@@ -106,7 +106,7 @@ var RadialProgress = function(size, barSize, barColor, backgroundColor, textColo
       var $maskFull = this.radialProgress.getElementsByClassName('mask full')[0];
       var $fill = this.radialProgress.getElementsByClassName('fill');
       var $fillFix = this.radialProgress.getElementsByClassName('fill fix')[0];
-      var $progress = this.radialProgress.getElementsByClassName('progress')[0];
+      var $progress = this.radialProgress.getElementsByClassName('c-progress')[0];
       var deltaProgress = (progress - this.progress) / (duration * 60);
   
       function step() {
