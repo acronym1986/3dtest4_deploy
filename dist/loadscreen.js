@@ -14,7 +14,7 @@ var RadialProgress = function(size, barSize, barColor, backgroundColor, textColo
   
     this.radialProgress.className = 'radial-progress';
     this.radialProgress.innerHTML = '<div class="inner-circle">' +
-      '<div class="progress">0%<' + '/div>' +
+      '<div class="c-progress">0%<' + '/div>' +
       '</div>' +
       '<div class="outer-circle">' +
       '<div class="mask full">' +
@@ -48,7 +48,7 @@ var RadialProgress = function(size, barSize, barColor, backgroundColor, textColo
       'border-radius: 50%;' +
       'z-index: 10;' +
       '}' +
-      '.radial-progress .inner-circle .progress {' +
+      '.radial-progress .inner-circle .c-progress {' +
       'height: 1em;' +
       'position: absolute;' +
       'margin: auto;' +
